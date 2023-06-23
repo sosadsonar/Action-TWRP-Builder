@@ -20,7 +20,7 @@
 ## Release Notes
 ```
 = 2022/10/28
-- OFRP manifest is changed, so not fully support OFRP now (if you can slove this, please submit a pull request!)
+- OFRP manifest is changed, so not fully support OFRP now (if you can solve this, please submit a pull request!)
 
 = 2022/07/08
 - TWRP and TWRP-based 5.X ~ 12.X are ***ALL COMPILED SUCCESSFULLY***
